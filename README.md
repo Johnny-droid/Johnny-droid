@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on Autonomous Driving at Bosch.
 - 💬 Ask me about anything, especially if you have an interesting project idea to share with me!
