@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on Autonomous Driving at Bosch.
+- 🔭 I’m currently working at TekPrivacy.
 - 💬 Ask me about anything, especially if you have an interesting project idea to share with me!
 
 ✨ What I like (and would like to learn more):
